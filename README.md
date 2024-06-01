@@ -6,3 +6,6 @@ A collection of scripts and containers for useful tasks using common utils. Thes
 
 ### Scripts
 - [decode jwt](scripts/jwt_decode_claims.sh)
+
+### Minimal tests
+- [tests](tests/README.md)
